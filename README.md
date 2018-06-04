@@ -1,4 +1,4 @@
-# FUZZY-RULES: ADDRESS CORRECTOR
+# FUZZY-RULES INE CONNECTOR: ADDRESS CORRECTOR
 
 ## Got a question?
 
@@ -6,7 +6,7 @@ Please, write to sebastian.mauricio.palacio@zurich.com
 
 ## What is FUZZY-RULES?
 
-FUZZY-RULES are computational verb rules to get some logic from data. In this case, we are going to apply to a subset of addresses, to be capable of cross this data with the [Censo Callejero Electoral](http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1254735624326&p=1254735624326&pagename=ProductosYServicios%2FPYSLayout) from Spain. 
+FUZZY-RULES are computational verb rules to get some logic from data. In this case, we are going to apply to a subset of addresses, to be capable of cross this data with the [Censo Callejero Electoral](http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1254735624326&p=1254735624326&pagename=ProductosYServicios%2FPYSLayout) from Spain. Also we added the connection to INE data, with several clusterization models.
 
 ## Requerimentes
 
@@ -59,8 +59,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 Please report any bugs and enhancement ideas to:
 
 * **Sebastián Mauricio Palacio** - [mailbox](sebastian.mauricio.palacio@zurich.com)
-
-## License
-
-Z-FINDER is licensed under the terms of Zurich Insurance Lta, Spain. See the [LICENSE.md](LICENSE.md) file for details
 
